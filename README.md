@@ -129,7 +129,7 @@ examples:
 |? - 3 =< 15.
 ```
 
-#NOTES
+# NOTES
 
 * variables use upper-case letters
 * use the keyword ***is*** to assign variables in expressions (dont use =)
@@ -140,11 +140,11 @@ examples:
 * get numbers between a range using the ***between()*** function.
   * ex: between(0, 10, X). returns 0 through 10
   
-#OPERATORS
+# OPERATORS
 * AND operator is ***,***
 * OR operator is ***;***
 * MODULO operator is ***mod(x, y)*** 
   * ex: mod(7, 2) = 1
 
-#UTILITIES
+# UTILITIES
 * use ***trace.*** to debug program and trace predicates (use **notrace.** to turn it off)
