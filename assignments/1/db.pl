@@ -8,7 +8,7 @@ illegal(w, _, e, e).
 illegal(e, _, w, w).
 
 % Changing state
-% farming moving
+% farmer moving
 change_state(e, X, Y, Z, w, X, Y, Z).
 change_state(w, X, Y, Z, e, X, Y, Z).
 % farmer and wolf moving
